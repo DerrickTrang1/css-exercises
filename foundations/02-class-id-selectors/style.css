@@ -1,0 +1,17 @@
+.p{
+    background-color:  #ff6666;
+    font-family: Verdana, "DejuVu Sans", sans-serif;
+}
+.cooler {
+    font-size: 24px;
+}
+
+#secondline {
+    color: blue;
+    font-size: 36px;
+}
+#fourthline {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
